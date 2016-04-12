@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CZServerManager downloadWithURL:]:CZServerManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CZFilesTableViewController actionAddDownloads:]:CZFilesTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "session">
+            </PersistentString>
+            <PersistentString
+               value = "self.activeDownloads">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[CZServerManager downloadWithURL:]_block_invoke:CZServerManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "__57-[AppDelegate application:didFinishLaunchingWithOptions:]_block_invoke:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CZFilesTableViewController startDownload:]:CZFilesTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.activeDownloads">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CZFilesTableViewController URLSession:downloadTask:didWriteData:totalBytesWritten:totalBytesExpectedToWrite:]:CZFilesTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.activeDownloads">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CZFilesTableViewController URLSession:downloadTask:didFinishDownloadingToURL:]:CZFilesTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.activeDownloads">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CZFilesTableViewController pauseTappedTapped:]:CZFilesTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CZFilesTableViewController downloadButtonTapped:]:CZFilesTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lastDownloadSessionIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CZFilesTableViewController tableView:cellForRowAtIndexPath:]:CZFilesTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "downloaded || showDownloadControls">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__44-[AppDelegate allSessionsSize:sessionIndex:]_block_invoke:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.array">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__61-[CZServerManager sessionsWithURLString:onSuccess:onFailure:]_block_invoke:CZServerManager.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
